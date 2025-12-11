@@ -9,9 +9,9 @@ int main()
 
     char charset[] =
         "abcdefghijklmnopqrstuvwxyz"
-        "ABCDEFGHIJKLMNOP"
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
         "0123456789"
-        "&*$%#@;:";
+        "&*$%#@/-+";
 
     int charsetSize = sizeof(charset) - 1;
 
